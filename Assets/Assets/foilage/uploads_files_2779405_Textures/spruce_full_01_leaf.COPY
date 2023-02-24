@@ -1,0 +1,25 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="spruce_full_01_leaf"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=4E58680F4EB0B7C91CB7DC9160E71800
+   Parent=MaterialInstanceConstant'"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_MA.spruce_full_01_MA"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Leaf Brightness"),ParameterValue=0.800000,ExpressionGUID=425D637646759CC46056E2A367128D22)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="RefractionDepthBias"))
+   BasePropertyOverrides=(TwoSided=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=77C2B91A4DD2CDF85EA43FB4160A4DC1
+   ReferencedTextureGuids(1)=62ED39684C8C783DB862C9BB36688E92
+   ReferencedTextureGuids(2)=C3B158E0463A7BD6E0D4F4843D044135
+   ReferencedTextureGuids(3)=E51487284BB04F277E46CEB2A88E28CD
+   ReferencedTextureGuids(4)=54EAFD1D4B71AC28902656939D33142E
+   ReferencedTextureGuids(5)=7DEEF6C04A24A84AFFFCE6AA50FBB0A1
+   ReferencedTextureGuids(6)=898A4CD34F2EC63B66F16DB8D31616A1
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="Leaf_AOSM",TextureReference="/Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_AOSM.Leaf_AOSM")
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="Leaf_N",TextureReference="/Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_N.Leaf_N")
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="Leaf_O",TextureReference="/Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_O.Leaf_O")
+   TextureStreamingData(3)=(SamplingScale=1.000000,UVChannelIndex=0,TextureReference="/Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_A_01.Leaf_A_01")
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=B5CECEC44DA998F05EFE90B8C33CD9A2
+End Object
